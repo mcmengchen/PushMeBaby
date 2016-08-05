@@ -1,1 +1,2 @@
 You can use this app during iOS Push Notification development to push notifications on your device from your Mac.
+输入的 devicetoken 需要去掉'<','>'并且保留空格.
